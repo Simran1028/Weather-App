@@ -4,20 +4,20 @@
     
 }
 .main-cont{
-    /* border: 2px solid green; */
+    padding-top: 100px;
 }
 .container{
-    padding-top: 100px;
+  
    display: flex;
    justify-content: center;
    flex-direction: column;
-   /* border: 2px solid red; */
+ 
    height:100%;
    width:100%;
 }
 .delhi{
    
-/* border: 2px solid red; */
+
     color: rgb(42, 119, 145);
     font-size: 52px;
     font-weight: 700;
